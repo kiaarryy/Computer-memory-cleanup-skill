@@ -1,0 +1,30 @@
+# Local reports and scratch output
+*.log
+*.tmp
+*.bak
+*.csv
+*.tsv
+*.jsonl
+audit-output*.txt
+disk-audit*.txt
+storage-report*.txt
+
+# Local quarantine directories
+C_Drive_Quarantine/
+quarantine/
+
+# Python and tool caches
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Editor and OS noise
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+# Codex/local runtime state
+.codex/
+.cache/

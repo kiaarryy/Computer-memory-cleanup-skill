@@ -1,0 +1,4 @@
+interface:
+  display_name: "Computer Memory Cleanup"
+  short_description: "Audit Windows C drive usage and plan safe cleanup."
+  default_prompt: "Use $computer-memory-cleanup to audit my Windows C drive and propose a safe cleanup plan."
