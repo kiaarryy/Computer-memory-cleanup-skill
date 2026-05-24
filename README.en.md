@@ -13,9 +13,9 @@ An agent skill for Codex and similar local coding-agent environments. It audits 
 
 The skill is intentionally conservative. Its bundled script is read-only: it reports disk usage and cleanup guidance, but does not delete, move, compact, or release files. Actual cleanup actions require explicit user confirmation.
 
-## Social media preview
+## Project overview
 
-These images can be used on GitHub, LinkedIn, X, newsletters, or project launch posts:
+The four panels below summarize the problem, workflow, and safety boundaries of this skill:
 
 | Cover | Find storage hogs |
 |-------|-------------------|
