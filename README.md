@@ -13,6 +13,18 @@
 
 这个 skill 特别强调安全边界：内置脚本只审计，不删除、不移动、不释放 OneDrive 本地副本。真正的清理动作必须由 agent 在用户确认后逐步执行。
 
+## 社交媒体介绍图
+
+下面这组图可以直接用于 GitHub 主页、朋友圈、小红书、LinkedIn 或项目介绍帖：
+
+| 封面 | 找出空间大户 |
+|------|--------------|
+| ![Computer Memory Cleanup cover](./docs/social/carousel-01-cover.png) | ![Find storage hogs](./docs/social/carousel-02-storage-hogs.png) |
+
+| 安全工作流 | GitHub CTA |
+|------------|------------|
+| ![Safer cleanup workflow](./docs/social/carousel-03-workflow.png) | ![Try the skill](./docs/social/carousel-04-cta.png) |
+
 ## 30 秒开始
 
 把这段话发给有 shell 权限的 Codex / 本地 Agent：

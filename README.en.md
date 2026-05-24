@@ -13,6 +13,18 @@ An agent skill for Codex and similar local coding-agent environments. It audits 
 
 The skill is intentionally conservative. Its bundled script is read-only: it reports disk usage and cleanup guidance, but does not delete, move, compact, or release files. Actual cleanup actions require explicit user confirmation.
 
+## Social media preview
+
+These images can be used on GitHub, LinkedIn, X, newsletters, or project launch posts:
+
+| Cover | Find storage hogs |
+|-------|-------------------|
+| ![Computer Memory Cleanup cover](./docs/social/carousel-01-cover.png) | ![Find storage hogs](./docs/social/carousel-02-storage-hogs.png) |
+
+| Safer workflow | GitHub CTA |
+|----------------|------------|
+| ![Safer cleanup workflow](./docs/social/carousel-03-workflow.png) | ![Try the skill](./docs/social/carousel-04-cta.png) |
+
 ## 30-second start
 
 Send this to a shell-capable Codex or local agent:
