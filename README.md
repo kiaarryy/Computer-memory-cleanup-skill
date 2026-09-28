@@ -202,12 +202,15 @@ Skill 会引导 Agent 按这个顺序工作：
 ## 目录结构
 
 ```text
-Computer-memory-cleanup/
+Computer-memory-cleanup-skill/
 |-- agent.md
 |-- README.md
 |-- README.en.md
 |-- LICENSE
 |-- .gitignore
+|-- docs/
+|   `-- social/
+|       `-- carousel-0{1..4}-*.png
 `-- computer-memory-cleanup/
     |-- SKILL.md
     |-- agents/
